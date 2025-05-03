@@ -1,6 +1,6 @@
 package com.aluracursos.radioazul.modelos;
 
-public class Cancion {
+public class Cancion extends Audio{
 
     private String album;
 
